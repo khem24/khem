@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "name": "Key Yard",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 1,
+    "versionPublish": "3.10.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "MOBIRISE",
+          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        }
+      ]
+    }
+  }
+}
